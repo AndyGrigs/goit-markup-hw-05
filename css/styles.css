@@ -716,6 +716,10 @@ a {
   width: 12px;
 }
 
+.modal-textarea-container{
+  margin-bottom: 8px;
+}
+
 .modal-textarea {
   width: 100%;
   height: 120px;
@@ -766,7 +770,7 @@ a {
   fill: var(--cloud-color);
 }
 
-modal-checkbox-label {
+.modal-checkbox-label {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
