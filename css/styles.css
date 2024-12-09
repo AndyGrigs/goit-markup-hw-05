@@ -746,7 +746,7 @@ a {
   margin-bottom: 24px;
 }
 
-.modal-checkbox-icon-container {
+.modal-checkbox {
   display: inline-flex;
   align-items: center;
   justify-content: center;
