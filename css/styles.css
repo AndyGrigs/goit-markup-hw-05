@@ -675,9 +675,6 @@ a {
   flex-direction: column;
 }
 
-.modal-name-field{
-  margin-bottom: 8px;
-}
 
 .modal-field {
   margin-bottom: 16px;
@@ -750,7 +747,7 @@ a {
 }
 
 .modal-checkbox {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
   width: 16px;
